@@ -1,0 +1,12 @@
+C:\Users\tristramnorman\Desktop\C# Benchmarks\sourceafis-code\SourceAFIS\bin\Debug\SourceAFIS.xml
+C:\Users\tristramnorman\Desktop\C# Benchmarks\sourceafis-code\SourceAFIS\bin\Debug\SourceAFIS.dll
+C:\Users\tristramnorman\Desktop\C# Benchmarks\sourceafis-code\SourceAFIS\bin\Debug\SourceAFIS.pdb
+C:\Users\tristramnorman\Desktop\C# Benchmarks\sourceafis-code\SourceAFIS\obj\Debug\SourceAFIS.csprojResolveAssemblyReference.cache
+C:\Users\tristramnorman\Desktop\C# Benchmarks\sourceafis-code\SourceAFIS\obj\Debug\SourceAFIS.dll
+C:\Users\tristramnorman\Desktop\C# Benchmarks\sourceafis-code\SourceAFIS\obj\Debug\SourceAFIS.pdb
+C:\Users\tristramnorman\Desktop\sourceafis-code\SourceAFIS\bin\Debug\SourceAFIS.xml
+C:\Users\tristramnorman\Desktop\sourceafis-code\SourceAFIS\bin\Debug\SourceAFIS.dll
+C:\Users\tristramnorman\Desktop\sourceafis-code\SourceAFIS\bin\Debug\SourceAFIS.pdb
+C:\Users\tristramnorman\Desktop\sourceafis-code\SourceAFIS\obj\Debug\SourceAFIS.dll
+C:\Users\tristramnorman\Desktop\sourceafis-code\SourceAFIS\obj\Debug\SourceAFIS.pdb
+C:\Users\tristramnorman\Desktop\sourceafis-code\SourceAFIS\obj\Debug\SourceAFIS.csprojResolveAssemblyReference.cache
